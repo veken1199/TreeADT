@@ -3,6 +3,7 @@ package assignment3;
 
 import java.util.ArrayList;
 //veken
+//veken 
 
 class iterator{
 	
